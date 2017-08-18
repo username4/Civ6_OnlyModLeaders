@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4cf0475d-a85f-4984-ad55-8acb75afcba3" version="1">
+	<Properties>
+		<Name>Mod Leaders Only</Name>
+		<Teaser/>
+		<Description>Disables all Vanilla and DLC Leaders.</Description>
+		<Authors>username4</Authors>
+		<ShowInBrowser>Show</ShowInBrowser>
+	</Properties>
+	<Components>
+		<UpdateDatabase id="OnlyModLeaders">
+			<Items>
+				<File>OnlyModLeaders.sql</File>
+			</Items>
+		</UpdateDatabase>			
+	</Components>
+	<Settings>
+		<Custom id="OnlyModLeaders_menu">
+		    <Properties>
+                <LoadOrder>1000</LoadOrder>
+            </Properties> 	
+			<Items>
+				<File>OnlyModLeadersMenu.sql</File>
+			</Items>
+		</Custom>	
+    </Settings>
+	<Files>
+		<File>OnlyModLeadersMenu.sql</File>
+		<File>OnlyModLeaders.sql</File>		
+	</Files>
+</Mod>
+
+

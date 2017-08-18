@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="128.35269"
-     inkscape:cy="636.78048"
+     inkscape:cx="-56.00015"
+     inkscape:cy="633.24495"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,39 +75,39 @@
          id="tspan4491" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.84687996px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.471172px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="47.432571"
-       y="97.118935"
+       style="font-style:normal;font-weight:normal;font-size:19.44281387px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48607033px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.815685"
+       y="98.582283"
        id="text4505"
-       transform="scale(0.9988585,1.0011428)"><tspan
+       transform="scale(1.0013638,0.99863808)"><tspan
          sodipodi:role="line"
-         x="47.432571"
-         y="97.118935"
-         style="stroke-width:0.471172px"
+         x="47.815685"
+         y="98.582283"
+         style="font-weight:bold;stroke-width:0.48607033px"
          id="tspan4507">Only</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.60739517px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.56518489px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="51.500404"
-       y="111.54617"
+       style="font-style:normal;font-weight:normal;font-size:25.00294495px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.62507361px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.353184"
+       y="109.79441"
        id="text4513"
-       transform="scale(0.86513789,1.1558851)"><tspan
+       transform="scale(0.83291491,1.2006028)"><tspan
          sodipodi:role="line"
          id="tspan4511"
-         x="51.500404"
-         y="111.54617"
-         style="font-weight:bold;fill:#ff00ff;stroke-width:0.56518489px">MOD</tspan></text>
+         x="53.353184"
+         y="109.79441"
+         style="font-weight:bold;fill:#ff00ff;stroke-width:0.62507361px">MOD</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:17.13572693px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42839316px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="32.908531"
-       y="132.67807"
+       style="font-style:normal;font-weight:normal;font-size:18.34384155px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45859602px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="41.070198"
+       y="129.64346"
        id="text4517"
-       transform="scale(0.84608647,1.1819123)"><tspan
+       transform="scale(0.8199047,1.2196539)"><tspan
          sodipodi:role="line"
          id="tspan4515"
-         x="32.908531"
-         y="132.67807"
-         style="stroke-width:0.42839316px">Civilizations</tspan></text>
+         x="41.070198"
+         y="129.64346"
+         style="font-weight:bold;stroke-width:0.45859602px">LEADERS</tspan></text>
   </g>
 </svg>
