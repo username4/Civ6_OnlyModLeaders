@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4cf0475d-a85f-4984-ad55-8acb75afcba3
+" version="1">
+	<Properties>
+		<Name>Mod Civilizations Only</Name>
+		<Teaser/>
+		<Description>Disables all Vanilla and DLC Leaders.</Description>
+		<Authors>username4</Authors>
+		<ShowInBrowser>Show</ShowInBrowser>
+	</Properties>
+	<Components>
+		<UpdateDatabase id="OnlyModLeaders">
+			<Items>
+				<File>OnlyModLeaders.sql</File>
+			</Items>
+		</UpdateDatabase>			
+	</Components>
+	<Settings>
+        <Properties>
+            <LoadOrder>100</LoadOrder>
+        </Properties>	
+		<Custom id="OnlyModLeaders_menu">
+			<Items>
+				<File>OnlyModLeadersMenu.sql</File>
+			</Items>
+		</Custom>	
+    </Settings>
+	<Files>
+		<File>OOnlyModLeadersMenu.sql</File>
+		<File>OnlyModLeaders.sql</File>		
+	</Files>
+</Mod>
+
+
