@@ -23,5 +23,14 @@ OR LeaderType = 'LEADER_MONTEZUMA'
 OR LeaderType = 'LEADER_ALEXANDER'
 OR LeaderType = 'LEADER_CYRUS'
 OR LeaderType = 'LEADER_JOHN_CURTIN'
-OR LeaderType = 'LEADER_AMANITORE';
---Not sure of Nubian leader name
+OR LeaderType = 'LEADER_AMANITORE' --check names
+OR LeaderType = 'LEADER_GITARJA'
+OR LeaderType = 'LEADER_LAUTARO'
+OR LeaderType = 'LEADER_POUNDMAKER'
+OR LeaderType = 'LEADER_ROBERT_THE_BRUCE'
+OR LeaderType = 'LEADER_SEONDEOK'
+OR LeaderType = 'LEADER_SHAKA'
+OR LeaderType = 'LEADER_TAMAR'
+OR LeaderType = 'LEADER_WILHEMINA';
+
+--Not sure of DLC leader names
