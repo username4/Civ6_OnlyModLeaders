@@ -6,6 +6,7 @@
 		<Description>Disables all Vanilla and DLC Leaders.</Description>
 		<Authors>username4</Authors>
 		<ShowInBrowser>Show</ShowInBrowser>
+    <CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 	<Components>
 		<UpdateDatabase id="OnlyModLeaders">
