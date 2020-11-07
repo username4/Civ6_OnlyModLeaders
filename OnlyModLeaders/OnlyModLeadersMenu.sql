@@ -46,4 +46,6 @@ OR LeaderType = 'LEADER_KUPE'
 OR LeaderType = 'LEADER_SULEIMAN'
 OR LeaderType = 'LEADER_DIDO'
 OR LeaderType = 'LEADER_KRISTINA'
-OR LeaderType = 'LEADER_WILHELMINA';
+OR LeaderType = 'LEADER_WILHELMINA'
+OR LeaderType = 'LEADER_SIMON_BOLIVAR'
+OR LeaderType = 'LEADER_LADY_SIX_SKY';
